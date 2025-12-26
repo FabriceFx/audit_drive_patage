@@ -1,4 +1,4 @@
-# Audit & Nettoyage des Drives Partagés (Shared Drives)
+# Audit & nettoyage des Drives partagés (Shared Drives)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
